@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kern;Alina;;;
+FN:Alina Kern
+TEL;TYPE=CELL:+4915259328387
+EMAIL;TYPE=INTERNET:alinakern2021@icloud.com
+NOTE:Ich bin 15 Jahre alt, spiele gerne mit Kindern und biete Babysitting an.
+END:VCARD
